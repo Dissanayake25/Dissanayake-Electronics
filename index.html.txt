@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8">
+    <title>Dissanayake Electronics - Bandarawela</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        header { background: #1a1a1a; color: white; padding: 20px; }
+        .hero { padding: 50px; background: #f4f4f4; }
+        .contact { padding: 20px; color: #333; }
+        .btn { background: #e67e22; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dissanayake Electronics</h1>
+    </header>
+    <section class="hero">
+        <h2>නවතම විදුලි උපකරණ සඳහා බණ්ඩාරවෙල ප්‍රමුඛයා</h2>
+        <p>අඩුම මිලට, වගකීමක් සහිතව සියලුම විද්‍යුත් උපකරණ අපෙන් ලබා ගන්න.</p>
+        <a href="tel:ඔබේ_අංකය" class="btn">දැන්ම අමතන්න</a>
+    </section>
+    <div class="contact">
+        <p>නො: 57/A, ධර්මවිජය මාවත, බණ්ඩාරවෙල.</p>
+    </div>
+</body>
+</html>
